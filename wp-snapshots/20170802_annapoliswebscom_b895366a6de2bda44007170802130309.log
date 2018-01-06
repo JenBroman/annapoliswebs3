@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-08-02 13:03:21
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.16
+WORDPRESS:	4.8
+PHP INFO:	7.0.8 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 16MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20170802_annapoliswebscom_b895366a6de2bda44007170802130309_database.sql 
+SQL FILE SIZE: 883.47KB (904673) 
+SQL FILE TIME: 2017-08-02 13:03:21 
+SQL RUNTIME: 0.05 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/jenniferbroman/Documents/Sites/annapoliswebs 
+ARCHIVE FILE: 20170802_annapoliswebscom_b895366a6de2bda44007170802130309_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	83.05MB 
+STATS:	Dirs 267 | Files 2,111 
+SQL ADDED: 20170802_annapoliswebscom_b895366a6de2bda44007170802130309_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2378
+    [filename] => /Users/jenniferbroman/Documents/Sites/annapoliswebs/wp-snapshots/tmp/20170802_annapoliswebscom_b895366a6de2bda44007170802130309_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 53.9MB 
+ARCHIVE RUNTIME: 14.41 sec. 
+MEMORY STACK: 16MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/jenniferbroman/Documents/Sites/annapoliswebs/wp-snapshots/tmp/20170802_annapoliswebscom_b895366a6de2bda44007170802130309_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 883.47KB 
+Installer File: 431.95KB 
+Archive File: 53.9MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 14.81 sec.
+PEAK PHP MEMORY USED: 18MB
+DONE PROCESSING => 20170802_annapoliswebscom 2017-08-02 13:03:36
+ 
